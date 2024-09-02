@@ -1,3 +1,7 @@
+body {
+   background-color: #e1fef0;
+}
+
 /* .container, .container1, .container2, .container3, .container4 {
     display: flex;
     flex-wrap: wrap;
@@ -128,8 +132,36 @@
    margin: 0px 0px 0px 20px;
 }
 
+.border {
+   background-color: #abf0cf;
+}
+
+
+
+ /* This is the programming section */
+ .container4 {
+    border: .1px solid;
+    width: 200%;
+    /* padding-left: 15px;
+    margin-left: 15px; */
+    float: right inline-start;
+    margin: 0px 0px 0px 10px;
+    height: 70vh;
+    /* height: 20vh; */
+ }
+
+#box5 {
+   float: left;
+   /* width: 40%; */
+}
+
+.margin {
+   margin: 0px 0px 4px 10px;
+   
+}
+
 .container5 {
-   border: 1px solid;
+   border: 1px none;
    height: 2vh;
    width: 40%;
    text-align: right;
@@ -158,26 +190,19 @@
    background: linear-gradient(90deg, #a02163, #a02163, #a02163e8, #ffffff, #ffffff)
 }
 
-
- /* This is the programming section */
- .container4 {
-    border: .1px solid;
-    width: 200%;
-    /* padding-left: 15px;
-    margin-left: 15px; */
-    float: right inline-start;
-    margin: 0px 0px 0px 10px;
-    /* height: 20vh; */
- }
-
-#box5 {
-   float: left;
-   /* width: 40%; */
+#green {
+   width: 60px;
+   margin-left:9px;
 }
 
-.margin {
-   margin: 0px 0px 4px 10px;
-   
+#red {
+   width: 60px;
+   margin-left:8px;
+}
+
+#yellow {
+   width: 60px;
+   margin-left: 15px;
 }
 
  /* aside {
