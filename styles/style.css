@@ -2,15 +2,10 @@ body {
    background-color: #e1fef0;
 }
 
-/* .container, .container1, .container2, .container3, .container4 {
-    display: flex;
-    flex-wrap: wrap;
-} */
-/* This is the top two section */
 .container, .container1 {
     display: flex;
     /* margin: ; */
-    border: .1px solid;
+    border: .1px none;
     width: 99px;
     height: 20vh;
     /* padding-left: 15px; */
@@ -67,7 +62,7 @@ body {
 
  /* This is section 3 under the top two */
  .container2 {
-    border: .1px solid;
+    border: .1px none;
     width: 100%;
     /* width: 100%; */
     /* padding-left: 15px; */
@@ -81,7 +76,7 @@ body {
 
  /* This is the employment section */
  .container3 {
-    border: .1px solid;
+    border: .1px none;
     /* width: 90%; */
     /* padding-left: 15px;
     margin-left: 15px; */
@@ -140,7 +135,7 @@ body {
 
  /* This is the programming section */
  .container4 {
-    border: .1px solid;
+    border: .1px none;
     width: 200%;
     /* padding-left: 15px;
     margin-left: 15px; */
