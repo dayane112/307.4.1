@@ -1,0 +1,136 @@
+/* .container, .container1, .container2, .container3, .container4 {
+    display: flex;
+    flex-wrap: wrap;
+} */
+/* This is the top two section */
+.container, .container1 {
+    display: flex;
+    /* margin: ; */
+    border: .1px solid;
+    width: 99px;
+    height: 20vh;
+    /* padding-left: 15px; */
+    /* margin-left: 15px; */
+    /* text-align: center; */
+    /* font-size: 30px; */
+ }
+
+#image {
+    clear: right;
+}
+
+ #box1 {
+    float: left;
+    width: 65%;
+ }
+
+  #table {
+    margin-top: 0%;
+}
+
+#name {
+    font-size: 2em;
+    font-weight: bold;
+    margin-bottom: 0;
+}
+
+#title {
+    margin-top: 0;
+}
+
+/* This is the top right section */
+.container1 {
+   /* float: right inline-start;"
+}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}
+   \]['''';p][';
+   / */
+}
+
+ #box2 {
+   width: 30%;
+   /* border-right: 5px; */
+   /* border-width: 5%; */
+   padding-left: 2%;
+   /* margin-right: 15px; */
+ }
+
+ .left {
+    text-align: right;
+ }
+
+
+ /* This is section 3 under the top two */
+ .container2 {
+    border: .1px solid;
+    width: 100%;
+    padding-left: 15px;
+    /* margin-left: 15px; */
+ }
+
+ #box3 {
+    width: 100%
+ }
+
+
+ /* This is the employment section */
+ .container3 {
+    border: .1px solid;
+    width: 90%;
+    padding-left: 15px;
+    margin-left: 15px;
+
+    /* border: .1px solid;
+    width: 200%;
+    padding-left: 15px;
+    margin-left: 15px;
+    float: right inline-start; */
+ }
+ 
+
+.program {
+    font-size: 1.3em;
+    font-weight: bold;
+}
+ 
+#box4 {
+   float: left;
+   width: 60%;
+}
+
+#two, #three {
+    /* display: flex;
+    justify-content: flex-start; */
+   width: 100%;
+
+   /* float: left;
+   width: 50%; */
+    
+}
+
+ .right {
+    text-align: right;
+ }
+
+ /* This is the programming section */
+ .container4 {
+    border: .1px solid;
+    width: 200%;
+    padding-left: 15px;
+    margin-left: 15px;
+    float: right inline-start;
+    /* height: 20vh; */
+ }
+
+#box5 {
+   float: left;
+   /* width: 40%; */
+}
+
+ /* aside {
+    width: 30%;
+    padding-left: 15px;
+    margin-left: 15px;
+    float: right;
+    /* font-style: italic; */
+    /* background-color: lightgray;
+} */ 
